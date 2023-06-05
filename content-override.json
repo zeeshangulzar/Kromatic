@@ -1,0 +1,54 @@
+{
+    "header": {
+        "banner": "<p>This is a banner</p>",
+        "background": "#FF0000",
+        "documentTitle": "Real Startup Book",
+        "favicon": "/favicon.png",
+        "foreground": "#FFFFFF",
+        "logo": "/logo.svg",
+        "logoLink": "/",
+        "links": [
+            {
+                "label": "Training",
+                "href": "https://www.kromatic.com/programs"
+            },
+            {
+                "label": "Coaching",
+                "href": "https://www.kromatic.com/coaching"
+            },
+            {
+                "label": "Consulting",
+                "href": "https://www.kromatic.com/consulting"
+            },
+            {
+                "label": "Resources",
+                "href": "https://www.kromatic.com/innovation-resources"
+            },
+            {
+                "label": "Blog",
+                "href": "https://www.kromatic.com/blog/"
+            },
+            {
+                "label": "Contact Us",
+                "href": "https://www.kromatic.com/contact-us"
+            }
+        ]
+    },
+    "footer": {
+        "banner": "<p>This is a banner</p>",
+        "links": [
+            {
+                "label": "Jobs",
+                "href": "https://kromatic.com/jobs"
+            },
+            {
+                "label": "Privacy Policy",
+                "href": "https://kromatic.com/privacy-policy"
+            },
+            {
+                "label": "Terms of Service",
+                "href": "https://kromatic.com/terms-of-service"
+            }
+        ]
+    }
+}
